@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="VehOdo">
+<config key="Bin1_0">
+<entry key="bin_name" type="xstring" value="Bin1"/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5367.0"/>
+</config>
+<config key="Bin2_1">
+<entry key="bin_name" type="xstring" value="Bin2"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5367.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="45181.0"/>
+</config>
+<config key="Bin3_2">
+<entry key="bin_name" type="xstring" value="Bin3"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="45181.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="56396.0"/>
+</config>
+<config key="Bin4_3">
+<entry key="bin_name" type="xstring" value="Bin4"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="56396.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="66083.0"/>
+</config>
+<config key="Bin5_4">
+<entry key="bin_name" type="xstring" value="Bin5"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="66083.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="74309.0"/>
+</config>
+<config key="Bin6_5">
+<entry key="bin_name" type="xstring" value="Bin6"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="74309.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="82039.0"/>
+</config>
+<config key="Bin7_6">
+<entry key="bin_name" type="xstring" value="Bin7"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="82039.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="90430.0"/>
+</config>
+<config key="Bin8_7">
+<entry key="bin_name" type="xstring" value="Bin8"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="90430.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="115718.0"/>
+</config>
+<config key="Bin9_8">
+<entry key="bin_name" type="xstring" value="Bin9"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="115718.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="VehOdo_is_appended" type="xstring" isnull="true" value=""/>
+<config key="VehBCost">
+<config key="Bin1_0">
+<entry key="bin_name" type="xstring" value="Bin1"/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1339.0"/>
+</config>
+<config key="Bin2_1">
+<entry key="bin_name" type="xstring" value="Bin2"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1339.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="4557.0"/>
+</config>
+<config key="Bin3_2">
+<entry key="bin_name" type="xstring" value="Bin3"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="4557.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5602.0"/>
+</config>
+<config key="Bin4_3">
+<entry key="bin_name" type="xstring" value="Bin4"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5602.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="6554.0"/>
+</config>
+<config key="Bin5_4">
+<entry key="bin_name" type="xstring" value="Bin5"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="6554.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="7455.0"/>
+</config>
+<config key="Bin6_5">
+<entry key="bin_name" type="xstring" value="Bin6"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="7455.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="8394.0"/>
+</config>
+<config key="Bin7_6">
+<entry key="bin_name" type="xstring" value="Bin7"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="8394.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="9634.0"/>
+</config>
+<config key="Bin8_7">
+<entry key="bin_name" type="xstring" value="Bin8"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="9634.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="18246.0"/>
+</config>
+<config key="Bin9_8">
+<entry key="bin_name" type="xstring" value="Bin9"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="18246.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="VehBCost_is_appended" type="xstring" isnull="true" value=""/>
+<config key="WarrantyCost">
+<config key="Bin1_0">
+<entry key="bin_name" type="xstring" value="Bin1"/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="461.0"/>
+</config>
+<config key="Bin2_1">
+<entry key="bin_name" type="xstring" value="Bin2"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="461.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="711.0"/>
+</config>
+<config key="Bin3_2">
+<entry key="bin_name" type="xstring" value="Bin3"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="711.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="949.0"/>
+</config>
+<config key="Bin4_3">
+<entry key="bin_name" type="xstring" value="Bin4"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="949.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1188.0"/>
+</config>
+<config key="Bin5_4">
+<entry key="bin_name" type="xstring" value="Bin5"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1188.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1470.0"/>
+</config>
+<config key="Bin6_5">
+<entry key="bin_name" type="xstring" value="Bin6"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1470.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="1892.0"/>
+</config>
+<config key="Bin7_6">
+<entry key="bin_name" type="xstring" value="Bin7"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="1892.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="3448.0"/>
+</config>
+<config key="Bin8_7">
+<entry key="bin_name" type="xstring" value="Bin8"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="3448.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="7499.0"/>
+</config>
+<config key="Bin9_8">
+<entry key="bin_name" type="xstring" value="Bin9"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="7499.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="WarrantyCost_is_appended" type="xstring" isnull="true" value=""/>
+<config key="MMRAcquisitionAuctionAveragePrice">
+<config key="Bin1_0">
+<entry key="bin_name" type="xstring" value="Bin1"/>
+<entry key="left_open" type="xboolean" value="true"/>
+<entry key="left_value" type="xdouble" value="-Infinity"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="895.0"/>
+</config>
+<config key="Bin2_1">
+<entry key="bin_name" type="xstring" value="Bin2"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="895.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="3707.0"/>
+</config>
+<config key="Bin3_2">
+<entry key="bin_name" type="xstring" value="Bin3"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="3707.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="5087.0"/>
+</config>
+<config key="Bin4_3">
+<entry key="bin_name" type="xstring" value="Bin4"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="5087.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="6450.0"/>
+</config>
+<config key="Bin5_4">
+<entry key="bin_name" type="xstring" value="Bin5"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="6450.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="7796.0"/>
+</config>
+<config key="Bin6_5">
+<entry key="bin_name" type="xstring" value="Bin6"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="7796.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="9359.0"/>
+</config>
+<config key="Bin7_6">
+<entry key="bin_name" type="xstring" value="Bin7"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="9359.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="11599.0"/>
+</config>
+<config key="Bin8_7">
+<entry key="bin_name" type="xstring" value="Bin8"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="11599.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="16983.0"/>
+</config>
+<config key="Bin9_8">
+<entry key="bin_name" type="xstring" value="Bin9"/>
+<entry key="left_open" type="xboolean" value="false"/>
+<entry key="left_value" type="xdouble" value="16983.0"/>
+<entry key="right_open" type="xboolean" value="true"/>
+<entry key="right_value" type="xdouble" value="Infinity"/>
+</config>
+</config>
+<entry key="MMRAcquisitionAuctionAveragePrice_is_appended" type="xstring" isnull="true" value=""/>
+<config key="binned_columns">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="VehOdo"/>
+<entry key="1" type="xstring" value="VehBCost"/>
+<entry key="2" type="xstring" value="WarrantyCost"/>
+<entry key="3" type="xstring" value="MMRAcquisitionAuctionAveragePrice"/>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.binner.BinnerNodeFactory"/>
+<entry key="node-name" type="xstring" value="Numeric Binner"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.4.2.v201711100922"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.4.2.v201711100944"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Numeric Binner"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

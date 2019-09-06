@@ -1,0 +1,2 @@
+file:/Users/francesco/Documents/Progetto%20Data%20Mining/training.csv
+knime://knime.workflow/data.all

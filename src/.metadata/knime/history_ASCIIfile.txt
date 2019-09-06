@@ -1,0 +1,4 @@
+file:/C:/Users/Antonio%20Sisbarra/Desktop/Università/Laurea%20Magistrale/Primo%20Anno/Data%20Mining/Progetto%20CarVana/training.csv
+C:\Users\Antonio Sisbarra\Desktop\Università\Laurea Magistrale\Primo Anno\Data Mining\Progetto CarVana\training.csv
+file:/Users/francesco/Documents/Progetto%20Data%20Mining/training.csv
+knime://knime.workflow/data.all

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="3"/>
+<entry key="ignoredColumns" type="xint" value="0"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="13953"/>
+<entry key="1" type="xint" value="8696"/>
+<entry key="2" type="xint" value="618"/>
+<entry key="3" type="xint" value="21164"/>
+<entry key="4" type="xint" value="8967"/>
+<entry key="5" type="xint" value="19577"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.18604374847265143"/>
+<entry key="1" type="xdouble" value="0.16716134021491705"/>
+<entry key="2" type="xdouble" value="0.19161348826097194"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.26717133577297725"/>
+<entry key="1" type="xdouble" value="0.2121926204789444"/>
+<entry key="2" type="xdouble" value="0.10218805716219352"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.09009585317320727"/>
+<entry key="1" type="xdouble" value="0.10386384480908666"/>
+<entry key="2" type="xdouble" value="0.6003969874763363"/>
+</config>
+<config key="kMeansCluster3">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.0933789322011144"/>
+<entry key="1" type="xdouble" value="0.10157334505335178"/>
+<entry key="2" type="xdouble" value="0.07006570227860975"/>
+</config>
+<config key="kMeansCluster4">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.08248871041667256"/>
+<entry key="1" type="xdouble" value="0.09926618127940613"/>
+<entry key="2" type="xdouble" value="0.20479359508647585"/>
+</config>
+<config key="kMeansCluster5">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xdouble" value="0.17610732858514727"/>
+<entry key="1" type="xdouble" value="0.1595420193396291"/>
+<entry key="2" type="xdouble" value="0.06111197535668265"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="MMRAcquisitionAuctionAveragePrice"/>
+<entry key="1" type="xstring" value="VehBCost"/>
+<entry key="2" type="xstring" value="WarrantyCost"/>
+</config>
+</config>
